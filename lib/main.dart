@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:my_app/Widgets/WeatherWidget.dart';
 
-import 'Widgets/CounterWidget.dart';
-
-void main() => runApp(const CountWidget());
+void main() => runApp(const WeatherWidget());
 
 
 

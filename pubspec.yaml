@@ -61,7 +61,7 @@ flutter:
   fonts:
     - family: Roboto
       fonts:
-        - asset: fonts/Roboto-Black.ttf
+        - asset: fonts/Roboto-Thin.ttf
   assets:
     - assets/images/index.jpg
     - assets/icons/4691465_flutter_icon.png
